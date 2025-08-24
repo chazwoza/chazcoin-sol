@@ -1,0 +1,24 @@
+{
+  "name": "chazcoin",
+  "symbol": "CHAZ",
+  "description": "Chazcoin is an example token deployed on Solana mainnet. It powers the chazcoin ecosystem and demonstrates SPL and Metaplex metadata integration.",
+  "image": "https://yourdomain.com/path-to-chazcoin-logo.png",
+  "decimals": 6,
+  "external_url": "https://chazcoin.com",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://yourdomain.com/path-to-chazcoin-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8SDHiDE5eqCcxXSySxq5ckBCv6MoUXLq3sb664j5815o",
+        "share": 100
+      }
+    ]
+  }
+}
